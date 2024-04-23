@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b1d2edcc361942ae877e9cc8495f51d, type: 3}
+  m_Name: Slime Data
+  m_EditorClassIdentifier: 
+  InitialLevel: 1
+  MaxLevel: 10
+  LevelUpBuff: 0.2
+  BaseHealth: 200
+  BaseDefence: 20
+  BaseExp: 200
+  CloseAttackRange: 1.2
+  RemoteAttackRange: 0
+  CloseAttackCoolDown: 1.8
+  RemoteAttackCoolDown: 0
+  BaseDamage_Close: 40
+  BaseDamageOffset_Close: 5
+  BaseDamage_Remote: 0
+  BaseDamageOffset_Remote: 0
+  CriticalMultiplier: 0.8
+  CriticalChance: 0.4
+  EnemyStiffness: 0
+  KillPoint: 30
+  MaxHealth: 200
+  CurrentHealth: 200
+  MaxDefence: 20
+  CurrentDefence: 20
+  MaxExp: 200
+  CurrentExp: 0
+  CurrentLevel: 1
+  Damage_Close: 40
+  DamageOffset_Close: 5
+  Damage_Remote: 0
+  DamageOffset_Remote: 0

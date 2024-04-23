@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 414389cbdb9054dccac0c598021ad1dc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerPrefab: {fileID: 8013368356279889018, guid: 8a1bd1e34f18a421181cfc1858a6fb3e, type: 3}
+  - cameraControllerPrefab: {fileID: 5990685399034894434, guid: 0fa7ac520030d4244a30159bde842bd2, type: 3}
+  - player: {instanceID: 0}
+  - cameraController: {instanceID: 0}
+  - playerStats: {instanceID: 0}
+  - playerController: {instanceID: 0}
+  - mouseManager: {instanceID: 0}
+  - sceneController: {instanceID: 0}
+  - uiManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

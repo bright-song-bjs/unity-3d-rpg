@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d3faba9352c944488a626a1d4c1753a7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - portalPos: {instanceID: 0}
+  - teleportButtonPrefab: {fileID: 7313881868407570875, guid: 99de2e7174766435b93c2f0c561bc7e3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

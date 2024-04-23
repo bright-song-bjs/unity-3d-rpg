@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b1d2edcc361942ae877e9cc8495f51d, type: 3}
+  m_Name: Golem Data
+  m_EditorClassIdentifier: 
+  InitialLevel: 3
+  MaxLevel: 10
+  LevelUpBuff: 0.2
+  BaseHealth: 1000
+  BaseDefence: 20
+  BaseExp: 200
+  CloseAttackRange: 3.2
+  RemoteAttackRange: 12
+  CloseAttackCoolDown: 4
+  RemoteAttackCoolDown: 9
+  BaseDamage_Close: 100
+  BaseDamageOffset_Close: 10
+  BaseDamage_Remote: 100
+  BaseDamageOffset_Remote: 10
+  CriticalMultiplier: 1.6
+  CriticalChance: 0.6
+  EnemyStiffness: 0
+  KillPoint: 180
+  MaxHealth: 0
+  CurrentHealth: 0
+  MaxDefence: 3
+  CurrentDefence: 3
+  MaxExp: 0
+  CurrentExp: 0
+  CurrentLevel: 1
+  Damage_Close: 0
+  DamageOffset_Close: 0
+  Damage_Remote: 0
+  DamageOffset_Remote: 0

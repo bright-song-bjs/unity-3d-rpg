@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: fc70d6415a3ab493eae5433a2ce25b99
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerProfile: {instanceID: 0}
+  - mainMenuButton: {instanceID: 0}
+  - nickName: {instanceID: 0}
+  - levelBackGround: {instanceID: 0}
+  - expBar: {instanceID: 0}
+  - healthBar: {instanceID: 0}
+  - whiteDog: {fileID: 21300000, guid: 89fc26c6ef0494a258959658b401d940, type: 3}
+  - cyanDog: {fileID: 21300000, guid: c57f9e4aa13964d8698857362b21d612, type: 3}
+  - greenDog: {fileID: 21300000, guid: 22d4ca0fcd6d743cdadbbc5607ed2f7e, type: 3}
+  - yellowDog: {fileID: 21300000, guid: 516febc3759734f98a5756f143872c3c, type: 3}
+  - redDog: {fileID: 21300000, guid: 2497887aa2c8b47fd9f5b3f117ff39fb, type: 3}
+  - pinkDog: {fileID: 21300000, guid: daf6bdc9d8c2144869392a8086c2f4f9, type: 3}
+  - blackDog: {fileID: 21300000, guid: 565fad7ac45c942a1a4189f84f549e92, type: 3}
+  - purpleDog: {fileID: 21300000, guid: 7f6e385093a074095a4b86ffb57c2413, type: 3}
+  - blueDog: {fileID: 21300000, guid: 7ceb015859a5d458fabdb4989a33e734, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

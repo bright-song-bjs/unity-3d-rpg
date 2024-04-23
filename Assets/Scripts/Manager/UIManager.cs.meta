@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e2ddd07a7fddb43cd873819f8054f94f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - loadSceneUIPrefab: {fileID: 4154495537808276573, guid: d977e2ac3c6a04af4911661c1707e22e, type: 3}
+  - playerUIPrefab: {fileID: 1218225762203920858, guid: d0a668ce4d84a4f92bc4b7fd481434e0, type: 3}
+  - mainMenuUIPrefab: {fileID: 3627315082472433420, guid: eaf668f2daa31435dbcff5c13fc161b5, type: 3}
+  - fadeInAndOutPrefab: {fileID: 4825343608542940749, guid: 697d201a70d954902951c6e14af31f44, type: 3}
+  - playerDeadUIPrefab: {fileID: 1569551065190142253, guid: ceb82a47f40ee4de2a34ae9e7c10f847, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

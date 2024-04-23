@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 8bb9fcdd1a02e4b78b90b74680124bf9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - loadSceneUIPrefab: {fileID: 4154495537808276573, guid: d977e2ac3c6a04af4911661c1707e22e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
